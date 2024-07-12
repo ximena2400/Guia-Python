@@ -1,1 +1,2 @@
-
+HM="Hola mundo"
+print (HM)
