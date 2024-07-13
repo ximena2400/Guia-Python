@@ -1,0 +1,6 @@
+# se pide introducir un numero
+n=int(input("Introduszca un número entero positivo"))
+#se hace la suma
+operacion=n*(n+1)//2
+#se muestra en pantalla
+print("la suma de los enteros de 1 a ",n,"es" ,operacion)
