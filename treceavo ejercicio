@@ -1,0 +1,6 @@
+numero=int(input('ingresa un numero'))
+numerospar=(numero%2)
+if numerospar==0:
+ print("es un numero par")
+elif numero:
+   print("el numero es impar")
