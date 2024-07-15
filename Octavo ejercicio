@@ -1,0 +1,10 @@
+peso = float(input("Introduzca su peso en kg: "))
+estatura = float(input("Itroduzca su estatura en metros: "))
+
+
+IMC = peso / (estatura * estatura)
+
+
+IMC_redondeado = round(imc, 2)
+
+print(f"Tu índice de masa corporal es {IMC_redondeado}")
