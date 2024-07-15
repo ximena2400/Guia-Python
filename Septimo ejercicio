@@ -4,9 +4,5 @@ peso_cilindro = 75  # esto Pesa de un cilindro en gramos
 
 cilindros = int(input("Ingrese el número de cilindros: "))
 engranes = int(input("Ingrese el número de engranes: "))
-
-
 peso_total = peso_engra * engranes + peso_cilindro * cilindros
-
-
 print(f"El peso total del paquete es de {peso_total} gramos.")
