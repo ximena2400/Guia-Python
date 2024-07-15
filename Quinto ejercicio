@@ -5,3 +5,4 @@ pago= float(input("¿Cúal es su paga por hora?))
 pagacor= horas* pago
 #se muestra en pantalla
 print (f "su pago de horas sera correpondiente a {pagacor}")
+ 
