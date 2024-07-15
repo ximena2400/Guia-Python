@@ -7,4 +7,4 @@ IMC = peso / (estatura * estatura)
 
 IMC_redondeado = round(imc, 2)
 
-print(f"Tu índice de masa corporal es {IMC_redondeado}")
+print(f"sú índice de masa corporal es {IMC_redondeado}")
