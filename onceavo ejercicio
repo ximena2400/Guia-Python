@@ -1,0 +1,6 @@
+contraseña=12345678
+intento= input("ingrese la contraseña")
+if intento=="12345":
+     print("contraseña correcta")
+elif intento:
+     print("contraseña incorrecta")
