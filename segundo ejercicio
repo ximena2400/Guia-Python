@@ -1,3 +1,3 @@
 HM="Hola mundo"
-print (HM)
+print (HM)//se da para que se muestre en pantalla
  
