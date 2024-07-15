@@ -1,7 +1,6 @@
 peso = float(input("Introduzca su peso en kg: "))
 estatura = float(input("Itroduzca su estatura en metros: "))
 
-
 IMC = peso / (estatura * estatura)
 
 
