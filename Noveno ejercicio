@@ -4,13 +4,8 @@ descuento = 0.6
 
 pan_no_fresco = int(input("Introduzca la cantidad de pan no fresco vendido: "))
 
-
 precio_sin_descuento = pan_no_fresco * precio_unit
-
-
 descuento_tt= precio_sin_descuento * descuento
-
-
 precio_final = precio_sin_descuento - descuento_tt
 
 print(f"""
