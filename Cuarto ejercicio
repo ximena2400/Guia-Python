@@ -1,5 +1,5 @@
-a=3
-b=2
-c=5
-operacion= (a+b/(a*c))**2
-print(operacion)
+a=3 //primera variable
+b=2 //segunda variable
+c=5 //tercera variable
+operacion= (a+b/(a*c))**2 //modelo de la operacion del ejercicio
+print(operacion) //se presenta en pantalla
