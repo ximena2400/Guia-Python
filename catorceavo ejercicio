@@ -1,0 +1,5 @@
+palabra=input("ingrese una palabra")
+  print (palabra)
+
+for t in range(10):
+print (palabra)
