@@ -1,8 +1,8 @@
-#numero de horas trabajadas
+ //numero de horas trabajadas
 Horas= float(input("ingrese número de horas trabajadas"))
 pago= float(input("¿Cúal es su paga por hora?))
-#calcular paga de horas
+//calcular paga de horas
 pagacor= horas* pago
-#se muestra en pantalla
+//se muestra en pantalla
 print (f "su pago de horas sera correpondiente a {pagacor}")
  
